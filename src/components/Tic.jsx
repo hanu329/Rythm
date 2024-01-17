@@ -125,7 +125,7 @@ export const Tic=()=>{
         </>
     )
 }
-
+ 
 const TicSpan=styled.span`
   padding:10px;
  border:1px solid grey ;
