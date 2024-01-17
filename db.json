@@ -1,0 +1,29 @@
+{
+  "user": [
+    {
+      "name": "ghg",
+      "email": "fd@gg",
+      "city": "delhi",
+      "hobby": [
+        "demo2",
+        "demo3"
+      ],
+      "gender": "male",
+      "dateOfBirth": "2023-11-07",
+      "id": 1
+    },
+    {
+      "name": "rajesh",
+      "email": "rty@er",
+      "city": "delhi",
+      "hobby": [
+        "demo1",
+        "demo3"
+      ],
+      "gender": "male",
+      "dateOfBirth": "1994-05-11",
+      "id": 2
+    }
+  ]
+}
+ 
